@@ -1161,6 +1161,10 @@ ul {
 .work-t{
     font-size: 16px;
 }
+.work-wrapper{
+    margin-bottom: 25px;
+    display: block;
+}
 .work-content .icon{
     background-color: var(--primary);
     color: var(--white);
