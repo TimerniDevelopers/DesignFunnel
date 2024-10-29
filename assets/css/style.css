@@ -1257,4 +1257,7 @@ ul {
         font-size: 34px;
         line-height: 38px;
     }
+    .banner-area .heading-wrapper {
+        width: 100%;
+    }
 }
